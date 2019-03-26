@@ -1,0 +1,12 @@
+1;Tasse, Steinzeug Becher groß
+2;Grundkurs Programmieren in Java
+3;Karibische Bananen
+4;Glenmorangie Original 10 Jahre
+5;Megaport Gaming-PC
+6;Apple iPhone 8 Plus
+7;Mehrzweckschrank, Sonoma Eiche
+8;Luxuriöser Füllhalter
+9;Tumbler Aberlour
+10;Bambus-Sonnenbrille mit Etui
+11;Rhodia 18559C DotPad Block
+12;Haftnotiz Super Sticky Notes

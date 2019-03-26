@@ -1,0 +1,6 @@
+2
+Grundkurs Programmieren in Java
+32.54
+7
+18
+Aktuell: Mit Java 8. Setzt wirklich keine Programmierkenntnisse voraus. Führt erfolgreich von den ersten Schritten bis hin zur Entwicklung von Anwendungen in Netzen. Mit zahlreichen Übungsaufgaben und Beispielen. Im Internet: Software und Tools, Video-Tutorials, alle Beispiel-Programme, Lösungen zu den Übungsaufgaben, zusätzliches Material und Übungen, Ergänzungen, Aktualisierungen und mehr. Extra: E-Book inside
